@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\Colegio.BL.dll.config
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\Colegio.BL.dll
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\Colegio.BL.pdb
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\AutoMapper.dll
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\EntityFramework.dll
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\AutoMapper.xml
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\EntityFramework.xml
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\obj\Debug\Colegio.BL.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\obj\Debug\Colegio.BL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\obj\Debug\Colegio.BL.csproj.CopyComplete
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\obj\Debug\Colegio.BL.dll
+C:\Users\sebas\source\repos\Colegio\Colegio.BL\obj\Debug\Colegio.BL.pdb

@@ -1,0 +1,85 @@
+﻿2024-03-27 11:16:12,746 [11] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 11:33:16,867 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 11:34:08,781 [5] ERROR Colegio.API.Controllers.NotasController -    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Colegio.BL.Repositories.Implements.GenericRepository`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Repositories\Implements\GenericRepository.cs:línea 28
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.BL.Services.Implements.GenericService`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Services\Implements\GenericService.cs:línea 18
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.API.Controllers.EstudiantesController.<Delete>d__9.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.API\Controllers\EstudiantesController.cs:línea 119
+2024-03-27 12:13:25,773 [88] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:14:26,390 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:15:38,454 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:15:42,873 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:15:58,731 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:16:03,582 [7] ERROR Colegio.API.Controllers.NotasController -    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Colegio.BL.Repositories.Implements.GenericRepository`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Repositories\Implements\GenericRepository.cs:línea 28
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.BL.Services.Implements.GenericService`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Services\Implements\GenericService.cs:línea 18
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.API.Controllers.EstudiantesController.<Delete>d__9.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.API\Controllers\EstudiantesController.cs:línea 125
+2024-03-27 12:16:12,243 [7] ERROR Colegio.API.Controllers.NotasController -    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Colegio.BL.Repositories.Implements.GenericRepository`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Repositories\Implements\GenericRepository.cs:línea 28
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.BL.Services.Implements.GenericService`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Services\Implements\GenericService.cs:línea 18
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.API.Controllers.ProfesorController.<Delete>d__9.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.API\Controllers\ProfesorController.cs:línea 124
+2024-03-27 12:16:18,608 [7] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 12:59:10,796 [33] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 13:00:08,549 [36] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:29:35,782 [35] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:30:23,201 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:30:44,090 [42] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:30:54,504 [35] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:31:31,658 [42] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:38:48,814 [22] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:38:51,736 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:39:47,284 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:39:50,595 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:40:08,079 [29] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:46:15,739 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:46:21,328 [20] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 15:47:30,673 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 16:03:57,400 [39] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 16:05:09,704 [20] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 17:36:38,904 [50] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 17:38:09,789 [50] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 17:38:23,230 [102] ERROR Colegio.API.Controllers.NotasController -    en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Colegio.BL.Repositories.Implements.GenericRepository`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Repositories\Implements\GenericRepository.cs:línea 28
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.BL.Services.Implements.GenericService`1.<Delete>d__2.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.BL\Services\Implements\GenericService.cs:línea 18
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   en Colegio.API.Controllers.ProfesorController.<Delete>d__9.MoveNext() en C:\Users\sebas\source\repos\Colegio\Colegio.API\Controllers\ProfesorController.cs:línea 124
+2024-03-27 17:38:35,724 [50] INFO Colegio.API.Controllers.NotasController - Entering application.
+2024-03-27 17:39:27,985 [102] INFO Colegio.API.Controllers.NotasController - Entering application.
